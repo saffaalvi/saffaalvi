@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=saffaalvi&show_icons=true&theme=swift)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saffaalvi&layout=compact&theme=swift)](https://github.com/saffaalvi/github-readme-stats)
+
+### Connect:
+
+<a href="https://www.linkedin.com/in/saffa-alvi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saffa-alvi/" height="30" width="40" /></a>
+
 <!--
 **saffaalvi/saffaalvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
